@@ -1,1 +1,2 @@
-This is first and sample file
+This is first and sample file.
+this is second line.
